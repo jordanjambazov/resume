@@ -1,71 +1,92 @@
-Markdown Resumé
+Jordan Jambazov
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+jordan.jambazov@gmail.com
++359 899 921 77
+
+
+
+[Markdown](https://raw.github.com/jordanjambazov/resume/master/resume.md) -> [PDF](https://raw.github.com/jordanjambazov/resume/master/resume.pdf), [HTML](http://jordanjambazov.github.com/resume), and more
+<http://github.com/jordanjambazov/resume>
 
 Interests
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+*   Software Development
+*   Sports
+*   Friends
 
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Strypes** (Sofia, Bulgaria)
 
-    Junior Resumé Maker, 2006 - 2007
+    Python Developer, 2013 - now
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -  Development of toolings for company customer
+    -  Design of data-intensive Software
+    -  Automation and migration solutions
 
-*   **\LaTeX\ + pdflatex**
+ 
+*   **Empybit** (Sofia, Bulgaria)
 
-    Senior Resumé Maker, 2008 - 2010
+    Co-founder, 2013 - now
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    -  Design of low and high level software 
+    -  Integration of high-level and embedded software
+    -  Project management
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
 
-    Web Resumé Intern, August 2010
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+*   **Antelope Audio**
 
-*   **Markdown with Pandoc**
+    Python Developer, 2012 - 2013
 
-    Resumé Architect, February 2011 - present
+    -  Development of control panels for audio devices
+    -  Extending the internal ERP system with custom functionality
+    -  Mobile development with Python Kivy and Lua
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+
+
+*   **DZone**
+
+    Python Developer, 2010-2012
+
+    -  Software Development for Open Source project OSQA
+    -  Active collaboration with the Open Source community
+    -  Design of data-intensive systems based on Amazon EC2
+
+
+*   **Veniko**
+
+    Python Web Developer, 2008 - 2010
+
+    -  Development of web applications using Django
+    -  Database schema design 
+    -  Front and back end development
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Technical University of Sofia**
 
-    B.S. in Submodules, May 2012
+    B.S. in Industrial Engineering, ongoing
+
+*   **Russian Embassy School in Sofia**
+    High school with advanced studying of Math and English
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   Python
 
-*   Familiar with GNU Make, bash
+*   Data-intensive systems
+
+*   Web Development
+
+*   Test-Driven Development
 
 
