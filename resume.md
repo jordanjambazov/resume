@@ -9,13 +9,6 @@ jordan.jambazov@gmail.com
 [Markdown](https://raw.github.com/jordanjambazov/resume/master/resume.md) -> [PDF](https://raw.github.com/jordanjambazov/resume/master/resume.pdf), [HTML](http://jordanjambazov.github.com/resume), and more
 <http://github.com/jordanjambazov/resume>
 
-Interests
----------
-
-*   Software Development
-*   Sports
-*   Friends
-
 
 Work Experience
 ---------------
@@ -24,7 +17,7 @@ Work Experience
 
     Python Developer, 2013 - now
 
-    -  Development of toolings for company customer
+    -  Development of tools for the company's customers
     -  Design of data-intensive Software
     -  Automation and migration solutions
 
@@ -33,10 +26,9 @@ Work Experience
 
     Co-founder, 2013 - now
 
-    -  Design of low and high level software 
+    -  Design of low and high-level software 
     -  Integration of high-level and embedded software
-    -  Project management
-
+    -  Management of projects
 
 
 *   **Antelope Audio**
@@ -64,7 +56,7 @@ Work Experience
 
     -  Development of web applications using Django
     -  Database schema design 
-    -  Front and back end development
+    -  Front and back-end development
 
 
 Education
@@ -72,7 +64,7 @@ Education
 
 *   **Technical University of Sofia**
 
-    B.S. in Industrial Engineering, ongoing
+    B.S. Industrial Engineering, ongoing
 
 *   **Russian Embassy School in Sofia**
     High school with advanced studying of Math and English
