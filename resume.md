@@ -64,7 +64,7 @@ Education
 
 *   **Technical University of Sofia**
 
-    B.S. Industrial Engineering, ongoing
+    B.S. Industrial Engineering
 
 *   **Russian Embassy School in Sofia**
     High school with advanced studying of Math and English
@@ -80,5 +80,7 @@ Skills
 *   Web Development
 
 *   Test-Driven Development
+
+*   Scrum
 
 
