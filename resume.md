@@ -13,6 +13,29 @@ jordan.jambazov@gmail.com
 Work Experience
 ---------------
 
+*   **IO Era** (Sofia, Bulgaria)
+
+    Co-founder, 2014 - now
+
+    -  Technical leadership of software projects
+
+
+*   **Code Ideo** (Sofia, Bulgaria)
+
+    Co-founder, 2014 - now
+
+    -  Technical leadership of software projects
+
+ 
+*   **Empybit** (Sofia, Bulgaria)
+
+    Founder, 2013 - now
+
+    -  Design of low and high-level software 
+    -  Integration of high-level and embedded software
+    -  Management of projects
+
+
 *   **Strypes** (Sofia, Bulgaria)
 
     Python Developer, 2013 - now
@@ -20,15 +43,6 @@ Work Experience
     -  Development of tools for the company's customers
     -  Design of data-intensive Software
     -  Automation and migration solutions
-
- 
-*   **Empybit** (Sofia, Bulgaria)
-
-    Co-founder, 2013 - now
-
-    -  Design of low and high-level software 
-    -  Integration of high-level and embedded software
-    -  Management of projects
 
 
 *   **Antelope Audio**
@@ -48,15 +62,6 @@ Work Experience
     -  Software Development for Open Source project OSQA
     -  Active collaboration with the Open Source community
     -  Design of data-intensive systems based on Amazon EC2
-
-
-*   **Veniko**
-
-    Python Web Developer, 2008 - 2010
-
-    -  Development of web applications using Django
-    -  Database schema design 
-    -  Front and back-end development
 
 
 Education
