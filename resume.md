@@ -13,6 +13,15 @@ jordan.jambazov@gmail.com
 Work Experience
 ---------------
 
+*   **Rechained** (Sofia, Bulgaria)
+
+    Co-founder, 2017 - now
+
+    -  Leading the software development of OS.University blockchain platform
+    -  Blockchain Solution Architecture
+    -  Collaboration with 3rd party technological partners
+
+
 *   **IO Era** (Sofia, Bulgaria)
 
     Co-founder, 2014 - now
@@ -26,12 +35,12 @@ Work Experience
 
     -  Technical leadership of software projects
 
- 
+
 *   **Empybit** (Sofia, Bulgaria)
 
     Founder, 2013 - now
 
-    -  Design of low and high-level software 
+    -  Design of low and high-level software
     -  Integration of high-level and embedded software
     -  Management of projects
 
@@ -87,5 +96,3 @@ Skills
 *   Test-Driven Development
 
 *   Scrum
-
-
